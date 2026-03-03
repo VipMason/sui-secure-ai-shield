@@ -22,9 +22,9 @@ Self-Hardening is an automated security hardening script for OpenClaw Agent. It 
 ## Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/openclaw/self-hardening.git
-cd self-hardening
+# Clone the SecureAI Shield repository
+git clone https://github.com/VipMason/sui-secure-ai-shield.git
+cd sui-secure-ai-shield/skills/self-hardening
 ```
 
 ## Usage

@@ -22,9 +22,9 @@ Injection Hunter is a security tool designed to detect and filter malicious prom
 ## Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/openclaw/injection-hunter.git
-cd injection-hunter
+# Clone the SecureAI Shield repository
+git clone https://github.com/VipMason/sui-secure-ai-shield.git
+cd sui-secure-ai-shield/skills/injection-hunter
 ```
 
 ## Usage

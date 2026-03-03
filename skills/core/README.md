@@ -58,9 +58,9 @@ SecureAI Shield implements a 7-layer security architecture designed specifically
 ## Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/openclaw/secure-ai-shield.git
-cd secure-ai-shield
+# Clone the SecureAI Shield repository
+git clone https://github.com/VipMason/sui-secure-ai-shield.git
+cd sui-secure-ai-shield
 
 # Install dependencies
 npm install

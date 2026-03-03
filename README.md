@@ -3,7 +3,7 @@
 Comprehensive security suite for AI Agents with Sui blockchain integration. Developed for DeepSurge Hackathon.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/openclaw/secure-ai-shield)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/VipMason/sui-secure-ai-shield)
 
 ## Overview
 

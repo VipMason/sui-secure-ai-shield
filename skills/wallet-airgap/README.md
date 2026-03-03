@@ -20,16 +20,15 @@ Wallet Air-Gap is middleware that allows OpenClaw Agent to propose transactions 
 ## Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/openclaw/wallet-airgap.git
-cd wallet-airgap
+# Clone the SecureAI Shield repository
+git clone https://github.com/VipMason/sui-secure-ai-shield.git
+cd sui-secure-ai-shield/skills/wallet-airgap
 ```
 
 ## Usage
 
-### Enable Protection
-
 ```bash
+# Enable protection
 node wallet-airgap.js enable
 ```
 

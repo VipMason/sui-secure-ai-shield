@@ -3,7 +3,7 @@
 Multi-layer security protection framework for AI Agents. Provides complete defense from input detection to execution monitoring with blockchain-backed audit logging.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/openclaw/secure-ai-shield)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/VipMason/sui-secure-ai-shield/secure-ai-shield)
 
 ## Overview
 
@@ -175,9 +175,9 @@ This project is part of the OpenClaw Security Suite:
 
 | Project | Description |
 |---------|-------------|
-| [injection-hunter](https://github.com/openclaw/injection-hunter) | Detect and filter malicious prompt injection attacks |
-| [self-hardening](https://github.com/openclaw/self-hardening) | Host security hardening script |
-| [wallet-airgap](https://github.com/openclaw/wallet-airgap) | Hardware wallet middleware for hot wallet protection |
+| [injection-hunter](https://github.com/VipMason/sui-secure-ai-shield/injection-hunter) | Detect and filter malicious prompt injection attacks |
+| [self-hardening](https://github.com/VipMason/sui-secure-ai-shield/self-hardening) | Host security hardening script |
+| [wallet-airgap](https://github.com/VipMason/sui-secure-ai-shield/wallet-airgap) | Hardware wallet middleware for hot wallet protection |
 
 ## License
 

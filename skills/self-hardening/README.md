@@ -3,7 +3,7 @@
 OpenClaw security hardening script - automatically configures system protection and restricts dangerous operations.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/openclaw/self-hardening)
+[![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/VipMason/sui-secure-ai-shield/self-hardening)
 
 ## Overview
 
@@ -115,9 +115,9 @@ sudo bash scripts/harden.sh
 
 | Project | Description |
 |---------|-------------|
-| [injection-hunter](https://github.com/openclaw/injection-hunter) | Detect and filter malicious prompt injection |
-| [secure-ai-shield](https://github.com/openclaw/secure-ai-shield) | Multi-layer security protection for AI Agents |
-| [wallet-airgap](https://github.com/openclaw/wallet-airgap) | Hardware wallet middleware |
+| [injection-hunter](https://github.com/VipMason/sui-secure-ai-shield/injection-hunter) | Detect and filter malicious prompt injection |
+| [secure-ai-shield](https://github.com/VipMason/sui-secure-ai-shield/secure-ai-shield) | Multi-layer security protection for AI Agents |
+| [wallet-airgap](https://github.com/VipMason/sui-secure-ai-shield/wallet-airgap) | Hardware wallet middleware |
 
 ## License
 

@@ -3,7 +3,7 @@
 Hardware wallet middleware for AI Agents. Prevents hot wallet drains by requiring hardware wallet signature for dangerous operations.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/openclaw/wallet-airgap)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/VipMason/sui-secure-ai-shield/wallet-airgap)
 
 ## Overview
 
@@ -115,9 +115,9 @@ if (!result.allowed) {
 
 | Project | Description |
 |---------|-------------|
-| [injection-hunter](https://github.com/openclaw/injection-hunter) | Detect and filter malicious prompt injection |
-| [secure-ai-shield](https://github.com/openclaw/secure-ai-shield) | Multi-layer security protection for AI Agents |
-| [self-hardening](https://github.com/openclaw/self-hardening) | Host security hardening script |
+| [injection-hunter](https://github.com/VipMason/sui-secure-ai-shield/injection-hunter) | Detect and filter malicious prompt injection |
+| [secure-ai-shield](https://github.com/VipMason/sui-secure-ai-shield/secure-ai-shield) | Multi-layer security protection for AI Agents |
+| [self-hardening](https://github.com/VipMason/sui-secure-ai-shield/self-hardening) | Host security hardening script |
 
 ## License
 

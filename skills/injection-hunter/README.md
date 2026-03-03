@@ -3,7 +3,7 @@
 Detect and filter malicious prompt injection attacks. Protects AI Agents from prompt injection, jailbreak attempts, and credential harvesting.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-2.1.0-blue.svg)](https://github.com/openclaw/injection-hunter)
+[![Version](https://img.shields.io/badge/version-2.1.0-blue.svg)](https://github.com/VipMason/sui-secure-ai-shield/injection-hunter)
 
 ## Overview
 
@@ -131,9 +131,9 @@ Add new detection rules in `scripts/filter.js` by modifying the `DANGOUS_PATTERN
 
 | Project | Description |
 |---------|-------------|
-| [secure-ai-shield](https://github.com/openclaw/secure-ai-shield) | Multi-layer security protection for AI Agents |
-| [self-hardening](https://github.com/openclaw/self-hardening) | Host security hardening script |
-| [wallet-airgap](https://github.com/openclaw/wallet-airgap) | Hardware wallet middleware |
+| [secure-ai-shield](https://github.com/VipMason/sui-secure-ai-shield/secure-ai-shield) | Multi-layer security protection for AI Agents |
+| [self-hardening](https://github.com/VipMason/sui-secure-ai-shield/self-hardening) | Host security hardening script |
+| [wallet-airgap](https://github.com/VipMason/sui-secure-ai-shield/wallet-airgap) | Hardware wallet middleware |
 
 ## License
 

@@ -1,0 +1,24 @@
+{
+  "name": "secure-ai-shield",
+  "version": "1.0.0",
+  "description": "Multi-layer security protection framework for AI Agents with blockchain-backed audit logging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init": "node scripts/init.js"
+  },
+  "keywords": [
+    "security",
+    "shield",
+    "protection",
+    "audit",
+    "blockchain",
+    "ai-agent",
+    "sui"
+  ],
+  "author": "OpenClaw",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}

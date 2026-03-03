@@ -1,0 +1,20 @@
+{
+  "name": "wallet-airgap",
+  "version": "1.0.0",
+  "description": "Hardware wallet middleware - prevents hot wallet drains",
+  "main": "wallet-airgap.js",
+  "scripts": {
+    "status": "node wallet-airgap.js status",
+    "enable": "node wallet-airgap.js enable",
+    "check": "node wallet-airgap.js check"
+  },
+  "keywords": [
+    "wallet",
+    "airgap",
+    "hardware-wallet",
+    "sui",
+    "security"
+  ],
+  "author": "OpenClaw",
+  "license": "MIT"
+}

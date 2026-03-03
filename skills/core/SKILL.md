@@ -21,7 +21,7 @@ metadata:
 
 Comprehensive multi-layer security protection system for AI Agents. Provides complete defense from input detection to execution monitoring with tamper-proof blockchain audit trails.
 
-**GitHub:** <https://github.com/VipMason/sui-secure-ai-shield/secure-ai-shield>
+**GitHub:** <https://github.com/VipMason/sui-secure-ai-shield>
 
 ## Overview
 
@@ -45,7 +45,7 @@ SecureAI Shield implements a 7-layer security architecture designed specifically
 
 ```bash
 # Clone the repository
-git clone https://github.com/VipMason/sui-secure-ai-shield/secure-ai-shield.git
+git clone https://github.com/VipMason/sui-secure-ai-shield.git
 cd secure-ai-shield
 
 # Install dependencies
@@ -459,9 +459,6 @@ This skill is part of the OpenClaw security suite:
 
 | Skill | Description |
 |-------|-------------|
-| [injection-hunter](https://clawhub.com/openclaw/injection-hunter) | Detect and filter malicious prompt injection attacks |
-| [wallet-airgap](https://clawhub.com/openclaw/wallet-airgap) | Hardware wallet middleware for hot wallet protection |
-| [healthcheck](https://clawhub.com/openclaw/healthcheck) | Host security hardening and risk assessment |
 | **secure-ai-shield** | Multi-layer security protection for AI Agents |
 
 **Security Workflow:**

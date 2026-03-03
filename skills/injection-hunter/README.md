@@ -131,9 +131,9 @@ Add new detection rules in `scripts/filter.js` by modifying the `DANGOUS_PATTERN
 
 | Project | Description |
 |---------|-------------|
-| [secure-ai-shield](https://github.com/VipMason/sui-secure-ai-shield/secure-ai-shield) | Multi-layer security protection for AI Agents |
-| [self-hardening](https://github.com/VipMason/sui-secure-ai-shield/self-hardening) | Host security hardening script |
-| [wallet-airgap](https://github.com/VipMason/sui-secure-ai-shield/wallet-airgap) | Hardware wallet middleware |
+| [secure-ai-shield](https://github.com/VipMason/sui-secure-ai-shield) | Multi-layer security protection for AI Agents |
+| [self-hardening](https://github.com/VipMason/sui-secure-ai-shield) | Host security hardening script |
+| [wallet-airgap](https://github.com/VipMason/sui-secure-ai-shield) | Hardware wallet middleware |
 
 ## License
 

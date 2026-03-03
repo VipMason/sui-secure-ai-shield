@@ -26,7 +26,7 @@ Detect and defend against malicious prompt injection attacks. The security shiel
 
 ```bash
 # Clone the repository
-git clone https://github.com/VipMason/sui-secure-ai-shield/injection-hunter.git
+git clone https://github.com/VipMason/sui-secure-ai-shield.git
 cd injection-hunter
 ```
 
@@ -134,9 +134,9 @@ Add new detection rules in `scripts/filter.js` by modifying the `DANGOUS_PATTERN
 
 | Skill | Description |
 |-------|-------------|
-| [secure-ai-shield](https://github.com/VipMason/sui-secure-ai-shield/secure-ai-shield) | Multi-layer security protection for AI Agents |
-| [self-hardening](https://github.com/VipMason/sui-secure-ai-shield/self-hardening) | Host security hardening script |
-| [wallet-airgap](https://github.com/VipMason/sui-secure-ai-shield/wallet-airgap) | Hardware wallet middleware |
+| [secure-ai-shield](https://github.com/VipMason/sui-secure-ai-shield) | Multi-layer security protection for AI Agents |
+| [self-hardening](https://github.com/VipMason/sui-secure-ai-shield) | Host security hardening script |
+| [wallet-airgap](https://github.com/VipMason/sui-secure-ai-shield) | Hardware wallet middleware |
 
 ## License
 
